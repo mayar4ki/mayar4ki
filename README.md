@@ -32,6 +32,6 @@ Note: Being busy at work didn't allow me to put much effort in my profile
 
 
 ## Contact
-- mayar.e.deeb@gmail.com
-- https://www.linkedin.com/in/mayar-deeb/
+- mayar.i.deeb@gmail.com
+- https://www.linkedin.com/in/mayar-i-deeb/
 feel free to contact me!
