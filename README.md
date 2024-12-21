@@ -34,4 +34,5 @@ Note: Being busy at work didn't allow me to put much effort in my profile
 ## Contact
 - mayar.i.deeb@gmail.com
 - https://www.linkedin.com/in/mayar-i-deeb/
+- https://my-portfolio-mayar4kis-projects.vercel.app/
 feel free to contact me!
