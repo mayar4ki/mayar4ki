@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mayar Deeb</h1>
+<h1 align="center">Hi 👋, I'm Mayar Deeb ( 祈璟川 )</h1>
 
 ## About 
 Front-end developer with experience in building and maintaining web applications using various technologies and frameworks.
