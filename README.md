@@ -7,9 +7,10 @@ I have an open mind and a collaborative attitude towards working with others and
 
 ## For more, check my LinkedIn or website 
 
-## Contact
 - mayar.i.deeb@gmail.com
 - https://www.linkedin.com/in/mayar-i-deeb/
 - https://www.mayar-deeb.dev/
   
 Feel free to contact me!
+
+- [my second Github account ( the one I use for commits cuz this one was restricted ) ](https://github.com/mayar-deeb-xi)
